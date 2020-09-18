@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KrishnaDahal/KrishnaDahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...RECAP Blockchain and Lab 26.
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...(email)(krishna.dahal2017@gmail.com)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...10 startups done
--->
